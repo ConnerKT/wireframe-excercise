@@ -1,3 +1,28 @@
-ul a {
-    
+body {
+    background-color: gray;
+}
+#companyname {
+    font-size:60px;
+    text-align: center;
+    margin:150px;
+}
+#ul {
+    background-color: #404040;
+}
+#li {
+    display: inline;
+    float:right;
+}
+a{
+    background-color:black;
+}
+img {
+    display:flex;
+    flex-direction:row;
+    margin:20px;
+}
+#temp {
+    float:left;
+    width:50%;
+    margin:100px;
 }
